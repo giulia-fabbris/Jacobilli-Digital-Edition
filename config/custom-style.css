@@ -1,0 +1,206 @@
+/* ************************* */
+
+/* EVT 2.0 CUSTOM STYLESHEET */
+
+/* ***************************************************************** */
+
+/*                                                                   */
+
+/* Add here your CSS to customize the style of the elements          */
+
+/* If you'll not see any changes, try adding !important to the rule  */
+
+/*                                                                   */
+
+/* For generic TEI elements, use the tagName as class                */
+
+/* e.g. <del/> => .del{ # your style goes here # }                   */
+
+/*                                                                   */
+
+/* ***************************************************************** */
+
+
+.figDesc {
+	display: block;
+	border-left: 5px solid #b30000;
+	background-color: #ffe6e6;
+	padding: 5px 5px 5px 8px;
+	margin-bottom: 3%;
+	text-align: justify;
+	font-size: 95%;
+	font-style: italic;
+}
+
+span.analogue span.analogue__text span.quote {
+	font-style: italic;
+}
+
+span.quote sup.iconbis-evt_quote-left,
+span.quote sup.iconbis-evt_quote-right {
+	display: none;
+}
+
+
+/*/* NOTE SPECIFICHE PER LACUNE, CAPITOLI, INTERVENTI DI JACOBILLI E CORREZIONI DI S. SIMION
+Per ottenerne il funzionamento è stato invertito l'ordine di due link su index.html:
+ORA:
+    <link rel="stylesheet" type="text/css" href="fonts/font-awesome.min.css">
+	  <link href="styles/main.css" rel="stylesheet">
+	  <link rel="stylesheet" type="text/css" href="config/custom-style.css">
+PRIMA:
+    <link rel="stylesheet" type="text/css" href="fonts/font-awesome.min.css">
+    <link rel="stylesheet" type="text/css" href="config/custom-style.css">
+    <link href="styles/main.css" rel="stylesheet">
+*/
+/* 2) Se l'HTML conserva type */
+
+.popover .popover_trigger i.evt_note > span.lac,
+.popover .popover_trigger i.evt_note > span.cap,
+.popover .popover_trigger i.evt_note > span.jacob,
+.popover .popover_trigger i.evt_note > span.corrSim{
+  /* kill barra */
+  border: none !important;
+  border-left: none !important;
+  outline: none !important;
+  box-shadow: none !important;
+  background-image: none !important;
+
+  /* forza geometria pallino */
+  display: inline-block !important;
+  width: 10px !important;
+  height: 10px !important;
+  min-width: 10px !important;
+  min-height: 10px !important;
+  padding: 0 !important;
+  margin: 0 3px 0 0 !important;
+  border-radius: 999px !important;
+
+  /* evita che resti “filiforme” per font/line-height */
+  font-size: 0 !important;
+  line-height: 0 !important;
+
+  /* allineamento */
+  vertical-align: middle !important;
+  position: relative !important;
+  top: -6px !important;
+}
+
+/* colori */
+.popover .popover_trigger i.evt_note > span.lac     { background-color:#000000 !important; }
+.popover .popover_trigger i.evt_note > span.autocorr   { background-color:#1565c0 !important; }
+.popover .popover_trigger i.evt_note > span.jacob  { background-color:#c62828 !important; }
+.popover .popover_trigger i.evt_note > span.corrSim { background-color:#2e7d32 !important; } 
+
+/* LETTERA NOTE lacune */
+.evt_note .lac {
+  font-size: 0;   /* nasconde il testo senza eliminarlo */
+}
+
+/* Stile comune del badge (una sola volta) */
+.evt_note .lac::before {
+  content: "L";   /* <- lettera desiderata */
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+
+  width: 1em;
+  height: 1em;
+  border-radius: 30%;
+
+  font-size: 0.90rem;
+  font-weight: 999;
+  font-style: normal;
+  line-height: 1;
+
+  color: #ffffff;
+  background-color: #ab0000;
+
+  vertical-align: super;
+}
+
+/* STILE NOTA Correzioni Simion */
+.evt_note .corrSim {
+  font-size: 0;   /* nasconde il testo senza eliminarlo */
+}
+
+.evt_note .corrSim::before {
+  content: "S";   /* <- lettera desiderata */
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+
+  width: 1em;
+  height: 1em;
+  border-radius: 30%;
+
+  font-size: 0.90rem;
+  font-weight: 999;
+  font-style: normal;
+  line-height: 1;
+
+  color: #ffffff;
+  background-color: #059900;
+
+  vertical-align: super;
+}
+
+/* LETTERA NOTA annotazioni jacobilli */
+.evt_note .jacob {
+  font-size: 0;   /* nasconde il testo senza eliminarlo */
+}
+
+/* Stile comune del badge (una sola volta) */
+.evt_note .jacob::before {
+  content: "J";   /* <- lettera desiderata */
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+
+  width: 1em;
+  height: 1em;
+  border-radius: 30%;
+
+  font-size: 0.90rem;
+  font-weight: 999;
+  font-style: normal;
+  line-height: 1;
+
+  color: #ffffff;
+  background-color: #1d00ab;
+
+  vertical-align: super;
+}
+
+/* LETTERA NOTA autocorrezioni copista */
+.evt_note .autocorr {
+  font-size: 0;   /* nasconde il testo senza eliminarlo */
+}
+
+/* Stile comune del badge (una sola volta) */
+.evt_note .autocorr::before {
+  content: "J";   /* <- lettera desiderata */
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+
+  width: 1em;
+  height: 1em;
+  border-radius: 30%;
+
+  font-size: 0.90rem;
+  font-weight: 999;
+  font-style: normal;
+  line-height: 1;
+
+  color: #ffffff;
+  background-color: #f035a5;
+
+  vertical-align: super;
+}
+
+/* COLORE INIZIALI*/
+.hi {
+  color: #c62828;
+}
+
