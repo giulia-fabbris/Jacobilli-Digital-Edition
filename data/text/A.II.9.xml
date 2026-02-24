@@ -5890,11 +5890,10 @@
          <div type="chapter" n="1" xml:id="VA7_VAvi.1">
             <p> ‹1› (VA VII – F XVII) <lb n="1" xml:id="A.II.9_lb_01r_01" facs="#A.II.9_line_01r_01"
                      /><reg>‹…›<note type="lac">Mancano i ff. iniziali, corrispondenti ai capitoli
-                     VA I-VA VII 10.</note></reg><note type="corrSim">Nel margine superiore,
-                  Jacobilli ha annotato: dal 1273. fino 1295 | Historia di Marco del Viaggio che
-                  fece nelle Regioni del Gran | Cane |\di Tartaria/ dell’Armenia, Persia, Crerina,
-                  Maabar Macor India. Nel margine destro Gran | soldano.</note><seg n="1"><reg>[1]
-                  </reg>che <choice>
+                     VA I-VA VII 10.</note></reg><note type="jacob">Nel margine superiore, Jacobilli
+                  ha annotato: dal 1273. fino 1295 | Historia di Marco del Viaggio che fece nelle
+                  Regioni del Gran | Cane |\di Tartaria/ dell’Armenia, Persia, Crerina, Maabar Macor
+                  India. Nel margine destro Gran | soldano.</note><seg n="1"/><reg>[1] </reg>che <choice>
                      <orig>Eli</orig>
                      <reg>eli</reg>
                   </choice> erano latiny e <choice>
@@ -5932,15 +5931,10 @@
                            facs="#A.II.9_line_01r_05"/>daseno</abbr>
                      <expan><g ref="#amacr"/><ex>n</ex>daseno<lb n="5"
                            xml:id="A.II.9_lb_01r_05_expan" facs="#A.II.9_line_01r_05"/></expan>
-                  </choice> siego per mar per menar quela do <lb n="6" xml:id="A.II.9_lb_01r_06"
-                     facs="#A.II.9_line_01r_06"/>na<choice>
-                     <orig/>
-                     <reg>.</reg>
-                  </choice></seg>
-               <seg n="2"><choice>
-                     <orig/>
-                     <reg>[2] </reg>
-                  </choice><choice>
+                  </choice> siego per mar per menar quela <choice><orig>do 
+                        <lb n="6" xml:id="A.II.9_lb_01r_06_orig" facs="#A.II.9_line_01r_06"/>na</orig><reg>dona<reg>.</reg> 
+                           <lb n="6" xml:id="A.II.9_lb_01r_06_reg" facs="#A.II.9_line_01r_06"/></reg></choice>
+               <seg n="2"/><reg>[2] </reg><choice>
                      <orig>siche</orig>
                      <reg>Sì che</reg>
                   </choice> lo <term ref="#grantKaan"><choice>
@@ -5961,10 +5955,7 @@
                   <lb n="7" xml:id="A.II.9_lb_01r_07" facs="#A.II.9_line_01r_07"/><choice>
                      <orig>cheli</orig>
                      <reg>ch'eli</reg>
-                  </choice> voleano<choice>
-                     <orig/>
-                     <reg>,</reg>
-                  </choice>
+                  </choice> voleano<reg>,</reg>
                   <choice>
                      <orig>emostro</orig>
                      <reg>e mostrò</reg>
@@ -5972,10 +5963,8 @@
                      <orig>lipareva</orig>
                      <reg>li pareva</reg>
                   </choice>
-                  <lb n="8" xml:id="A.II.9_lb_01r_08" facs="#A.II.9_line_01r_08"/>grieve<choice>
-                     <orig/>
-                     <reg>.</reg>
-                  </choice></seg>
+                  <lb n="8" xml:id="A.II.9_lb_01r_08" facs="#A.II.9_line_01r_08"
+                  />grieve<reg>.</reg>
             </p>
          </div>
          <!-- CAPITOLO VAvi 2, VA8 -->
@@ -11365,15 +11354,17 @@
          <pb n="52r" xml:id="A.II.9_fol_52r"/>
          <div type="chapter" n="69" xml:id="VA79_VAvi.69">
             <p>
-               <lb n="1" xml:id="A.II.9_lb_52r_01" facs="#A.II.9_line_52r_01"/><seg n="1"><reg>[1]</reg> <hi rend="init3.1"
-                  >L</hi>O <term ref="#grantKaan">grande chan</term> sia Altri .xij. barony ali <lb
-                  n="2" xml:id="A.II.9_lb_52r_02" facs="#A.II.9_line_52r_02"/>qual elo sia chomeso
-               lasoa oturita <lb n="3" xml:id="A.II.9_lb_52r_03" facs="#A.II.9_line_52r_03"/>de
-               aproveder quelo chede besogno ded <lb n="4" xml:id="A.II.9_lb_52r_04"
-                  facs="#A.II.9_line_52r_04"/>denar ede far sovra .xxxiiij°. provencie</seg> Et <lb n="5"
-                  xml:id="A.II.9_lb_52r_05" facs="#A.II.9_line_52r_05"/>questy demorano chontinua
-               mente in <lb n="6" xml:id="A.II.9_lb_52r_06" facs="#A.II.9_line_52r_06"/>uno grando
-               palasio che in <placeName ref="#canbalu">chanbalu</placeName>
+               <lb n="1" xml:id="A.II.9_lb_52r_01" facs="#A.II.9_line_52r_01"/><seg n="1"
+                     ><reg>[1]</reg>
+                  <hi rend="init3.1">L</hi>O <term ref="#grantKaan">grande chan</term> sia Altri
+                  .xij. barony ali <lb n="2" xml:id="A.II.9_lb_52r_02" facs="#A.II.9_line_52r_02"
+                  />qual elo sia chomeso lasoa oturita <lb n="3" xml:id="A.II.9_lb_52r_03"
+                     facs="#A.II.9_line_52r_03"/>de aproveder quelo chede besogno ded <lb n="4"
+                     xml:id="A.II.9_lb_52r_04" facs="#A.II.9_line_52r_04"/>denar ede far sovra
+                  .xxxiiij°. provencie</seg> Et <lb n="5" xml:id="A.II.9_lb_52r_05"
+                  facs="#A.II.9_line_52r_05"/>questy demorano chontinua mente in <lb n="6"
+                  xml:id="A.II.9_lb_52r_06" facs="#A.II.9_line_52r_06"/>uno grando palasio che in
+                  <placeName ref="#canbalu">chanbalu</placeName>
                <lb n="7" xml:id="A.II.9_lb_52r_07" facs="#A.II.9_line_52r_07"/>che molto grando
                ebelo chon molte <lb n="8" xml:id="A.II.9_lb_52r_08" facs="#A.II.9_line_52r_08"
                />salle Et chamare Et ano questi baro <lb n="9" xml:id="A.II.9_lb_52r_09"

@@ -211,7 +211,7 @@
 
     "languages": [
         "it",
-        "eng"
+        "en"
     ],
     "showObjectSelector": true,
 
@@ -228,7 +228,7 @@
       "toolSolidColor": false,
       "toolCamera": false,
       "toolHotspot": false,
-      "toolFullScreen": false,
+      "toolFullScreen": true,
       "toolSwitchModel": false,
       "toolArrows": false,
       "toolLightController": false,
