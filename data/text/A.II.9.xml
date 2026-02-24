@@ -5894,86 +5894,88 @@
                   ha annotato: dal 1273. fino 1295 | Historia di Marco del Viaggio che fece nelle
                   Regioni del Gran | Cane |\di Tartaria/ dell’Armenia, Persia, Crerina, Maabar Macor
                   India. Nel margine destro Gran | soldano.</note><seg n="1"/><reg>[1] </reg>che <choice>
-                     <orig>Eli</orig>
-                     <reg>eli</reg>
-                  </choice> erano latiny e <choice>
-                     <orig>chosi</orig>
-                     <reg>chosì</reg>
-                  </choice> valenti homeny<reg>,</reg> e <lb n="2" xml:id="A.II.9_lb_01r_02"
-                     facs="#A.II.9_line_01r_02"/>oldando quelo che <choice>
-                     <abbr>Eli<am/></abbr>
-                     <expan>eli<ex/></expan>
-                  </choice> avevano volutade de <lb n="3" xml:id="A.II.9_lb_01r_03"
-                     facs="#A.II.9_line_01r_03"/>partirse<choice>
-                     <orig/>
-                     <reg>,</reg>
-                  </choice>
-                  <choice>
-                     <orig>domando</orig>
-                     <reg>domandò</reg>
-                  </choice> per gracia <choice>
-                     <orig>Al<term ref="#grantKaan">gran signor</term></orig>
-                     <reg>al <term ref="#grantKaan">Gran Signor</term></reg>
-                  </choice>
-                  <lb n="4" xml:id="A.II.9_lb_01r_04" facs="#A.II.9_line_01r_04"/>che Elo <choice>
-                     <orig>lidese</orig>
-                     <reg>li dese</reg>
-                  </choice>
-                  <choice>
-                     <orig>inso</orig>
-                     <reg>in so</reg>
-                  </choice> chonpagnia e che <choice>
-                     <abbr>Eli<am/></abbr>
-                     <expan>eli<ex/></expan>
-                  </choice>
-                  <choice>
-                     <abbr><am><g ref="#amacr"/></am><lb n="5" xml:id="A.II.9_lb_01r_05_abbr"
-                           facs="#A.II.9_line_01r_05"/>daseno</abbr>
-                     <expan><g ref="#amacr"/><ex>n</ex>daseno<lb n="5"
-                           xml:id="A.II.9_lb_01r_05_expan" facs="#A.II.9_line_01r_05"/></expan>
-                  </choice> siego per mar per menar quela <choice><orig>do 
-                        <lb n="6" xml:id="A.II.9_lb_01r_06_orig" facs="#A.II.9_line_01r_06"/>na</orig><reg>dona<reg>.</reg> 
-                           <lb n="6" xml:id="A.II.9_lb_01r_06_reg" facs="#A.II.9_line_01r_06"/></reg></choice>
+                  <orig>Eli</orig>
+                  <reg>eli</reg>
+               </choice> erano latiny e <choice>
+                  <orig>chosi</orig>
+                  <reg>chosì</reg>
+               </choice> valenti homeny<reg>,</reg> e <lb n="2" xml:id="A.II.9_lb_01r_02"
+                  facs="#A.II.9_line_01r_02"/>oldando quelo che <choice>
+                  <abbr>Eli<am/></abbr>
+                  <expan>eli<ex/></expan>
+               </choice> avevano volutade de <lb n="3" xml:id="A.II.9_lb_01r_03"
+                  facs="#A.II.9_line_01r_03"/>partirse<choice>
+                  <orig/>
+                  <reg>,</reg>
+               </choice>
+               <choice>
+                  <orig>domando</orig>
+                  <reg>domandò</reg>
+               </choice> per gracia <choice>
+                  <orig>Al<term ref="#grantKaan">gran signor</term></orig>
+                  <reg>al <term ref="#grantKaan">Gran Signor</term></reg>
+               </choice>
+               <lb n="4" xml:id="A.II.9_lb_01r_04" facs="#A.II.9_line_01r_04"/>che Elo <choice>
+                  <orig>lidese</orig>
+                  <reg>li dese</reg>
+               </choice>
+               <choice>
+                  <orig>inso</orig>
+                  <reg>in so</reg>
+               </choice> chonpagnia e che <choice>
+                  <abbr>Eli<am/></abbr>
+                  <expan>eli<ex/></expan>
+               </choice>
+               <choice>
+                  <abbr><am><g ref="#amacr"/></am><lb n="5" xml:id="A.II.9_lb_01r_05_abbr"
+                        facs="#A.II.9_line_01r_05"/>daseno</abbr>
+                  <expan><g ref="#amacr"/><ex>n</ex>daseno<lb n="5" xml:id="A.II.9_lb_01r_05_expan"
+                        facs="#A.II.9_line_01r_05"/></expan>
+               </choice> siego per mar per menar quela <choice>
+                  <orig>do <lb n="6" xml:id="A.II.9_lb_01r_06_orig" facs="#A.II.9_line_01r_06"
+                     />na</orig>
+                  <reg>dona<reg>.</reg>
+                     <lb n="6" xml:id="A.II.9_lb_01r_06_reg" facs="#A.II.9_line_01r_06"/></reg>
+               </choice>
                <seg n="2"/><reg>[2] </reg><choice>
-                     <orig>siche</orig>
-                     <reg>Sì che</reg>
-                  </choice> lo <term ref="#grantKaan"><choice>
-                        <abbr>gran chan<am/></abbr>
-                        <expan>Gran Chan<ex/></expan>
-                     </choice></term> dise <choice>
-                     <orig>alafin</orig>
-                     <reg>ala fin</reg>
-                  </choice>
-                  <choice>
-                     <orig>defar</orig>
-                     <reg>de far</reg>
-                  </choice>
-                  <choice>
-                     <orig>co</orig>
-                     <reg>cò</reg>
-                  </choice>
-                  <lb n="7" xml:id="A.II.9_lb_01r_07" facs="#A.II.9_line_01r_07"/><choice>
-                     <orig>cheli</orig>
-                     <reg>ch'eli</reg>
-                  </choice> voleano<reg>,</reg>
-                  <choice>
-                     <orig>emostro</orig>
-                     <reg>e mostrò</reg>
-                  </choice> che molto <choice>
-                     <orig>lipareva</orig>
-                     <reg>li pareva</reg>
-                  </choice>
-                  <lb n="8" xml:id="A.II.9_lb_01r_08" facs="#A.II.9_line_01r_08"
-                  />grieve<reg>.</reg>
+                  <orig>siche</orig>
+                  <reg>Sì che</reg>
+               </choice> lo <term ref="#grantKaan"><choice>
+                     <abbr>gran chan<am/></abbr>
+                     <expan>Gran Chan<ex/></expan>
+                  </choice></term> dise <choice>
+                  <orig>alafin</orig>
+                  <reg>ala fin</reg>
+               </choice>
+               <choice>
+                  <orig>defar</orig>
+                  <reg>de far</reg>
+               </choice>
+               <choice>
+                  <orig>co</orig>
+                  <reg>cò</reg>
+               </choice>
+               <lb n="7" xml:id="A.II.9_lb_01r_07" facs="#A.II.9_line_01r_07"/><choice>
+                  <orig>cheli</orig>
+                  <reg>ch'eli</reg>
+               </choice> voleano<reg>,</reg>
+               <choice>
+                  <orig>emostro</orig>
+                  <reg>e mostrò</reg>
+               </choice> che molto <choice>
+                  <orig>lipareva</orig>
+                  <reg>li pareva</reg>
+               </choice>
+               <lb n="8" xml:id="A.II.9_lb_01r_08" facs="#A.II.9_line_01r_08"/>grieve<reg>.</reg>
             </p>
          </div>
          <!-- CAPITOLO VAvi 2, VA8 -->
          <div type="chapter" n="2" xml:id="VA8_VAvi.2">
             <p> ‹2› (VA VIII – F XVIII) <lb n="9" xml:id="A.II.9_lb_01r_09"
-                  facs="#A.II.9_line_01r_09"/><hi rend="init3.1">Q</hi>uando<note type="jacob">Nello
-                  spazio interlineare annotazione di Jacobilli: Regno del Gran Cane di
-                  Tartaria.</note> lido fradelli emisier <persName ref="#marcoPolo"
-                  >marcho</persName> sedo <lb n="10" xml:id="A.II.9_lb_01r_10"
+                  facs="#A.II.9_line_01r_09"/><seg n="1"/><reg>[1] </reg><hi rend="init3.1"
+                  >Q</hi>uando<note type="jacob">Nello spazio interlineare annotazione di Jacobilli:
+                  Regno del Gran Cane di Tartaria.</note> lido fradelli emisier <persName
+                  ref="#marcoPolo">marcho</persName> sedo <lb n="10" xml:id="A.II.9_lb_01r_10"
                   facs="#A.II.9_line_01r_10"/>veva partir lo <term ref="#grantKaan">grande
                   signor</term> li fe vegn<g ref="#itilde"/>
                <lb n="11" xml:id="A.II.9_lb_01r_11" facs="#A.II.9_line_01r_11"/>davanty desi efali
@@ -5981,9 +5983,10 @@
                   xml:id="A.II.9_lb_01r_12" facs="#A.II.9_line_01r_12"/>mandamento cheli foseno
                franchi per tuta la <lb n="13" xml:id="A.II.9_lb_01r_13" facs="#A.II.9_line_01r_13"
                />soa segnoria edovese aver lespexe intriega <lb n="14" xml:id="A.II.9_lb_01r_14"
-                  facs="#A.II.9_line_01r_14"/>mente persi epertuta lasoa chonpagnia Et <lb n="15"
-                  xml:id="A.II.9_lb_01r_15" facs="#A.II.9_line_01r_15"/>inposeli soa anbasada Alpapa
-               e alore de<placeName ref="#france">fr<g ref="#amacr"/>
+                  facs="#A.II.9_line_01r_14"/>mente persi epertuta lasoa chonpagnia <seg n="2"
+                  /><reg>[2] </reg>Et <lb n="15" xml:id="A.II.9_lb_01r_15"
+                  facs="#A.II.9_line_01r_15"/>inposeli soa anbasada Alpapa e alore de<placeName
+                  ref="#france">fr<g ref="#amacr"/>
                   <lb n="16" xml:id="A.II.9_lb_01r_16" facs="#A.II.9_line_01r_16"/>ca</placeName>
                ealore despagna e apluxor altry re de cri <lb n="17" xml:id="A.II.9_lb_01r_17"
                   facs="#A.II.9_line_01r_17"/>stianitade Epuo fese aparechiare xiiij° nave <lb
