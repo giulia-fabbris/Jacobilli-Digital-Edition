@@ -11775,77 +11775,142 @@ n=""               <pb n="38r" xml:id="A.II.9_fol_38r"/>
             </p>
          </div>
          <div type="chapter" n="101" xml:id="VA111_VAvi.101">
-            <p>
-               <lb n="4" xml:id="A.II.9_lb_76v_04" facs="#A.II.9_line_76v_04"/>
-               <hi rend="init3.1">Q</hi>Ando lomo separte de <placeName ref="#coigangiu">chorgancuy</placeName> el
-                  <lb n="5" xml:id="A.II.9_lb_76v_05" facs="#A.II.9_line_76v_05"/>va in verso <term ref="#yseloc">sirocho</term> una cornada <lb n="6" xml:id="A.II.9_lb_76v_06" facs="#A.II.9_line_76v_06"/>per una strada laquale Etuta solta dem <lb n="7" xml:id="A.II.9_lb_76v_07" facs="#A.II.9_line_76v_07"/>olte bele piere Et equela
-               via Ala intr <lb n="8" xml:id="A.II.9_lb_76v_08" facs="#A.II.9_line_76v_08"/>ada<note>Segno d’attenzione (croce) sul margine sinistro.</note> de <placeName ref="#mangi">manci</placeName> eda caschadun lato dela <lb n="9" xml:id="A.II.9_lb_76v_09" facs="#A.II.9_line_76v_09"/>via sie aqua einla provencia
-               nose puo <lb n="10" xml:id="A.II.9_lb_76v_10" facs="#A.II.9_line_76v_10"/>entrar per
-               tera da Alguno lado seno p<g ref="#etilde"/>
-               <lb n="11" xml:id="A.II.9_lb_76v_11" facs="#A.II.9_line_76v_11"/>quela via de chavo
-               de quela cornada <lb n="12" xml:id="A.II.9_lb_76v_12" facs="#A.II.9_line_76v_12"/>se
-               truova una citade chea nome <placeName ref="#pauchin">pa <lb n="13" xml:id="A.II.9_lb_76v_13" facs="#A.II.9_line_76v_13"/>nchi</placeName> che
-               molto bela egrande intuta q <lb n="14" xml:id="A.II.9_lb_76v_14" facs="#A.II.9_line_76v_14"/>uesta chontrada sespende <term ref="#charte">lamoneda
-                  de <lb n="15" xml:id="A.II.9_lb_76v_15" facs="#A.II.9_line_76v_15"/>lecharte</term> chesefa Alachorte del <term ref="#grantKaan">grando ch <lb n="16" xml:id="A.II.9_lb_76v_16" facs="#A.II.9_line_76v_16"/>an</term> et ege
-               abondancia de tute chose da <lb n="17" xml:id="A.II.9_lb_76v_17" facs="#A.II.9_line_76v_17"/>viver ede <term ref="#soie">seda</term> efase grande
-               marcha <lb n="18" xml:id="A.II.9_lb_76v_18" facs="#A.II.9_line_76v_18"/>dantie de
-               chavo de unaltra cornada <lb n="19" xml:id="A.II.9_lb_76v_19" facs="#A.II.9_line_76v_19"/>verso <term ref="#yseloc">sirocho</term> sie lanobele
-               citade de <placeName ref="#caiu">cha <lb n="20" xml:id="A.II.9_lb_76v_20" facs="#A.II.9_line_76v_20"/>ilu</placeName> la dove sie molto pese Egrande ve
-                  <lb n="21" xml:id="A.II.9_lb_76v_21" facs="#A.II.9_line_76v_21"/>nasone de bestie
-               Ede osely elge tanti <term ref="#faicain">fa <lb n="22" xml:id="A.II.9_lb_76v_22" facs="#A.II.9_line_76v_22"/>sany</term> chel seneda tre per tanto <term ref="#arjent">arcento</term>
-               <lb n="23" xml:id="A.II.9_lb_76v_23" facs="#A.II.9_line_76v_23"/>chonse uno <term ref="#grosVenesian">groso veniciano</term> quando lo <lb n="24" xml:id="A.II.9_lb_76v_24" facs="#A.II.9_line_76v_24"/>mo separte da <placeName ref="#caiu">chailu</placeName> elva una cor <lb n="25" xml:id="A.II.9_lb_76v_25" facs="#A.II.9_line_76v_25"/>nada trovando molte bele vile Etere <lb n="26" xml:id="A.II.9_lb_76v_26" facs="#A.II.9_line_76v_26"/>tropo bone lavorate Epuo
+            <p>‹101› (VA CXI – F CXL-CXLIII) <lb n="4" xml:id="A.II.9_lb_76v_04"
+                  facs="#A.II.9_line_76v_04"/>[] <hi rend="init3.1">Q</hi>Ando lomo separte de
+                  <placeName ref="#coigangiu">chorgancuy</placeName> el <lb n="5"
+                  xml:id="A.II.9_lb_76v_05" facs="#A.II.9_line_76v_05"/>va in verso <term
+                  ref="#yseloc">sirocho</term> una cornada <lb n="6" xml:id="A.II.9_lb_76v_06"
+                  facs="#A.II.9_line_76v_06"/>per una strada laquale Etuta solta dem <lb n="7"
+                  xml:id="A.II.9_lb_76v_07" facs="#A.II.9_line_76v_07"/>olte bele piere [] Et equela
+               via Ala intr <lb n="8" xml:id="A.II.9_lb_76v_08" facs="#A.II.9_line_76v_08"
+                  />ada<note>Segno d’attenzione (croce) sul margine sinistro.</note> de <placeName
+                  ref="#mangi">manci</placeName> eda caschadun lato dela <lb n="9"
+                  xml:id="A.II.9_lb_76v_09" facs="#A.II.9_line_76v_09"/>via sie aqua [] einla
+               provencia nose puo <lb n="10" xml:id="A.II.9_lb_76v_10" facs="#A.II.9_line_76v_10"
+               />entrar per tera da Alguno lado seno p<g ref="#etilde"/>
+               <lb n="11" xml:id="A.II.9_lb_76v_11" facs="#A.II.9_line_76v_11"/>quela via [] de
+               chavo de quela cornada <lb n="12" xml:id="A.II.9_lb_76v_12"
+                  facs="#A.II.9_line_76v_12"/>se truova una citade chea nome <placeName
+                  ref="#pauchin">pa <lb n="13" xml:id="A.II.9_lb_76v_13" facs="#A.II.9_line_76v_13"
+                  />nchi</placeName> che molto bela egrande [] intuta q <lb n="14"
+                  xml:id="A.II.9_lb_76v_14" facs="#A.II.9_line_76v_14"/>uesta chontrada sespende
+                  <term ref="#charte">lamoneda de <lb n="15" xml:id="A.II.9_lb_76v_15"
+                     facs="#A.II.9_line_76v_15"/>lecharte</term> chesefa Alachorte del <term
+                  ref="#grantKaan">grando ch <lb n="16" xml:id="A.II.9_lb_76v_16"
+                     facs="#A.II.9_line_76v_16"/>an</term> [] et ege abondancia de tute chose da <lb
+                  n="17" xml:id="A.II.9_lb_76v_17" facs="#A.II.9_line_76v_17"/>viver ede <term
+                  ref="#soie">seda</term> efase grande marcha <lb n="18" xml:id="A.II.9_lb_76v_18"
+                  facs="#A.II.9_line_76v_18"/>dantie [] de chavo de unaltra cornada <lb n="19"
+                  xml:id="A.II.9_lb_76v_19" facs="#A.II.9_line_76v_19"/>verso <term ref="#yseloc"
+                  >sirocho</term> sie lanobele citade de <placeName ref="#caiu">cha <lb n="20"
+                     xml:id="A.II.9_lb_76v_20" facs="#A.II.9_line_76v_20"/>ilu</placeName> la dove
+               sie molto pese Egrande ve <lb n="21" xml:id="A.II.9_lb_76v_21"
+                  facs="#A.II.9_line_76v_21"/>nasone de bestie Ede osely elge tanti <term
+                  ref="#faicain">fa <lb n="22" xml:id="A.II.9_lb_76v_22" facs="#A.II.9_line_76v_22"
+                  />sany</term> chel seneda tre per tanto <term ref="#arjent">arcento</term>
+               <lb n="23" xml:id="A.II.9_lb_76v_23" facs="#A.II.9_line_76v_23"/>chonse uno <term
+                  ref="#grosVenesian">groso veniciano</term> [] quando lo <lb n="24"
+                  xml:id="A.II.9_lb_76v_24" facs="#A.II.9_line_76v_24"/>mo separte da <placeName
+                  ref="#caiu">chailu</placeName> elva una cor <lb n="25" xml:id="A.II.9_lb_76v_25"
+                  facs="#A.II.9_line_76v_25"/>nada trovando molte bele vile Etere <lb n="26"
+                  xml:id="A.II.9_lb_76v_26" facs="#A.II.9_line_76v_26"/>tropo bone lavorate Epuo
                truova la <lb n="27" xml:id="A.II.9_lb_76v_27" facs="#A.II.9_line_76v_27"/>citade de
-                  <placeName ref="#tigiu">tinguy</placeName> che none molto gran <lb n="28" xml:id="A.II.9_lb_76v_28" facs="#A.II.9_line_76v_28"/>da moa Abondancia de tute
-               chose da <lb n="29" xml:id="A.II.9_lb_76v_29" facs="#A.II.9_line_76v_29"/>viver esie
-               verso <term ref="#yseloc">sirocho</term> et ege gran <!-- ##### FOLIO 77r ##### -->
+                  <placeName ref="#tigiu">tinguy</placeName> che none molto gran <lb n="28"
+                  xml:id="A.II.9_lb_76v_28" facs="#A.II.9_line_76v_28"/>da moa Abondancia de tute
+               chose da <lb n="29" xml:id="A.II.9_lb_76v_29" facs="#A.II.9_line_76v_29"/>viver []
+               esie verso <term ref="#yseloc">sirocho</term> et ege gran <!-- ##### FOLIO 77r ##### -->
                <pb n="77r" xml:id="A.II.9_fol_77r"/>
-               <lb n="1" xml:id="A.II.9_lb_77r_01" facs="#A.II.9_line_77r_01"/>di navilij dala
-               senestra parte dalonci de <lb n="2" xml:id="A.II.9_lb_77r_02" facs="#A.II.9_line_77r_02"/>quela cita tre cornade sovra <placeName ref="#merOsiane">lomar oci <lb n="3" xml:id="A.II.9_lb_77r_03" facs="#A.II.9_line_77r_03"/>ano</placeName> edalmar fina Aquesta tera sie mol
-                  <lb n="4" xml:id="A.II.9_lb_77r_04" facs="#A.II.9_line_77r_04"/>te saline Et /e/
-               inquelo meco una gra <lb n="5" xml:id="A.II.9_lb_77r_05" facs="#A.II.9_line_77r_05"/>nda citade chea nome <placeName ref="#cingui">cinguy</placeName> quando <lb n="6" xml:id="A.II.9_lb_77r_06" facs="#A.II.9_line_77r_06"/>lomo separte da <placeName ref="#cingui">cinguy</placeName> elva per <term ref="#yseloc">siro <lb n="7" xml:id="A.II.9_lb_77r_07" facs="#A.II.9_line_77r_07"/>cho</term> una cornata
-               per molto bela chon <lb n="8" xml:id="A.II.9_lb_77r_08" facs="#A.II.9_line_77r_08"/>tra el truova una nobele citade chea <lb n="9" xml:id="A.II.9_lb_77r_09" facs="#A.II.9_line_77r_09"/>nome <placeName ref="#yangiu2">ianguy</placeName>
-               laquale sia .xxvij. citade <lb n="10" xml:id="A.II.9_lb_77r_10" facs="#A.II.9_line_77r_10"/>soto lasoa signoria et eno tere de grande <lb n="11" xml:id="A.II.9_lb_77r_11" facs="#A.II.9_line_77r_11"/>merchadantie Eio <persName ref="#marcoPolo">marcho polo</persName> avi lasi <lb n="12" xml:id="A.II.9_lb_77r_12" facs="#A.II.9_line_77r_12"/>gnoria de questa chontrada
-               dalo <term ref="#grantKaan">gr <lb n="13" xml:id="A.II.9_lb_77r_13" facs="#A.II.9_line_77r_13"/>do chan</term> ben tre any </p>
+               <lb n="1" xml:id="A.II.9_lb_77r_01" facs="#A.II.9_line_77r_01"/>di navilij [] dala
+               senestra parte dalonci de <lb n="2" xml:id="A.II.9_lb_77r_02"
+                  facs="#A.II.9_line_77r_02"/>quela cita tre cornade sovra <placeName
+                  ref="#merOsiane">lomar oci <lb n="3" xml:id="A.II.9_lb_77r_03"
+                     facs="#A.II.9_line_77r_03"/>ano</placeName> edalmar fina Aquesta tera sie mol
+                  <lb n="4" xml:id="A.II.9_lb_77r_04" facs="#A.II.9_line_77r_04"/>te saline [] Et
+               /e/ inquelo meco una gra <lb n="5" xml:id="A.II.9_lb_77r_05"
+                  facs="#A.II.9_line_77r_05"/>nda citade chea nome <placeName ref="#cingui"
+                  >cinguy</placeName> [] quando <lb n="6" xml:id="A.II.9_lb_77r_06"
+                  facs="#A.II.9_line_77r_06"/>lomo separte da <placeName ref="#cingui"
+                  >cinguy</placeName> elva per <term ref="#yseloc">siro <lb n="7"
+                     xml:id="A.II.9_lb_77r_07" facs="#A.II.9_line_77r_07"/>cho</term> una cornata
+               per molto bela chon <lb n="8" xml:id="A.II.9_lb_77r_08" facs="#A.II.9_line_77r_08"
+               />tra el truova una nobele citade chea <lb n="9" xml:id="A.II.9_lb_77r_09"
+                  facs="#A.II.9_line_77r_09"/>nome <placeName ref="#yangiu2">ianguy</placeName>
+               laquale sia .xxvij. citade <lb n="10" xml:id="A.II.9_lb_77r_10"
+                  facs="#A.II.9_line_77r_10"/>soto lasoa signoria et eno tere de grande <lb n="11"
+                  xml:id="A.II.9_lb_77r_11" facs="#A.II.9_line_77r_11"/>merchadantie [] Eio
+                  <persName ref="#marcoPolo">marcho polo</persName> avi lasi <lb n="12"
+                  xml:id="A.II.9_lb_77r_12" facs="#A.II.9_line_77r_12"/>gnoria de questa chontrada
+               dalo <term ref="#grantKaan">gr <lb n="13" xml:id="A.II.9_lb_77r_13"
+                     facs="#A.II.9_line_77r_13"/>do chan</term> ben tre any </p>
          </div>
          <div type="chapter" n="102" xml:id="VA112_VAvi.102">
-            <p>
-               <lb n="14" xml:id="A.II.9_lb_77r_14" facs="#A.II.9_line_77r_14"/>
-               <hi rend="init3.1">V</hi>Erso loponente Einlo <placeName ref="#mangi">manci</placeName> una pr <lb n="15" xml:id="A.II.9_lb_77r_15" facs="#A.II.9_line_77r_15"/>ovencia che anome
-                  <placeName ref="#nanghin">naiguy</placeName> cheno <lb n="16" xml:id="A.II.9_lb_77r_16" facs="#A.II.9_line_77r_16"/>bele Ericha ladove sefa
-               molty lavorie <lb n="17" xml:id="A.II.9_lb_77r_17" facs="#A.II.9_line_77r_17"/>ri
-                  d<term ref="#or">oro</term> edeseda et ege granda Abond<g ref="#amacr"/>
+            <p>‹102› (VA CXII – F CXLIV-CXLV) <lb n="14" xml:id="A.II.9_lb_77r_14"
+                  facs="#A.II.9_line_77r_14"/>[] <hi rend="init3.1">V</hi>Erso loponente Einlo
+                  <placeName ref="#mangi">manci</placeName> una pr <lb n="15"
+                  xml:id="A.II.9_lb_77r_15" facs="#A.II.9_line_77r_15"/>ovencia che anome <placeName
+                  ref="#nanghin">naiguy</placeName> cheno <lb n="16" xml:id="A.II.9_lb_77r_16"
+                  facs="#A.II.9_line_77r_16"/>bele Ericha ladove sefa molty lavorie <lb n="17"
+                  xml:id="A.II.9_lb_77r_17" facs="#A.II.9_line_77r_17"/>ri d<term ref="#or"
+                  >oro</term> edeseda et ege granda Abond<g ref="#amacr"/>
                <lb n="18" xml:id="A.II.9_lb_77r_18" facs="#A.II.9_line_77r_18"/>cia debiava edetute
-               chose davivere a <lb n="19" xml:id="A.II.9_lb_77r_19" facs="#A.II.9_line_77r_19"/>nche sege truova lacitade de<placeName ref="#saianfu">sanga fu</placeName>
+               chose davivere [] a <lb n="19" xml:id="A.II.9_lb_77r_19" facs="#A.II.9_line_77r_19"
+               />nche sege truova lacitade de<placeName ref="#saianfu">sanga fu</placeName>
                <lb n="20" xml:id="A.II.9_lb_77r_20" facs="#A.II.9_line_77r_20"/>laquale asoto
-               sosegnoria .xij. bone cita <lb n="21" xml:id="A.II.9_lb_77r_21" facs="#A.II.9_line_77r_21"/>de questa citade setene tre any dapoy <lb n="22" xml:id="A.II.9_lb_77r_22" facs="#A.II.9_line_77r_22"/>chelo <term ref="#grantKaan">grande chan</term> chonqu\i/sto <placeName ref="#mangi">mancy</placeName>
-               <lb n="23" xml:id="A.II.9_lb_77r_23" facs="#A.II.9_line_77r_23"/>che losto delo <term ref="#grantKaan">grande chan</term> nolapote <lb n="24" xml:id="A.II.9_lb_77r_24" facs="#A.II.9_line_77r_24"/>asediar seno dalo lady detramontana <lb n="25" xml:id="A.II.9_lb_77r_25" facs="#A.II.9_line_77r_25"/>da tute le altre tre parte
+               sosegnoria .xij. bone cita <lb n="21" xml:id="A.II.9_lb_77r_21"
+                  facs="#A.II.9_line_77r_21"/>de [] questa citade setene tre any dapoy <lb n="22"
+                  xml:id="A.II.9_lb_77r_22" facs="#A.II.9_line_77r_22"/>chelo <term ref="#grantKaan"
+                  >grande chan</term> chonqu\i/sto <placeName ref="#mangi">mancy</placeName>
+               <lb n="23" xml:id="A.II.9_lb_77r_23" facs="#A.II.9_line_77r_23"/>che losto delo <term
+                  ref="#grantKaan">grande chan</term> nolapote <lb n="24" xml:id="A.II.9_lb_77r_24"
+                  facs="#A.II.9_line_77r_24"/>asediar seno dalo lady detramontana <lb n="25"
+                  xml:id="A.II.9_lb_77r_25" facs="#A.II.9_line_77r_25"/>da tute le altre tre parte
                sie aqua e <lb n="26" xml:id="A.II.9_lb_77r_26" facs="#A.II.9_line_77r_26"/>lagy
                molto grandy eprofondi siche p<g ref="#etilde"/>
                <lb n="27" xml:id="A.II.9_lb_77r_27" facs="#A.II.9_line_77r_27"/>aqua lacitade podeva
-               aver vitovari <lb n="28" xml:id="A.II.9_lb_77r_28" facs="#A.II.9_line_77r_28"/>a de
-               chavo detre any vene mesi al <lb n="29" xml:id="A.II.9_lb_77r_29" facs="#A.II.9_line_77r_29"/>
-               <term ref="#grantKaan">grando chan</term> daparte del
-               chapitanio <pb n="77v" xml:id="A.II.9_fol_77v"/>
+               aver vitovari <lb n="28" xml:id="A.II.9_lb_77r_28" facs="#A.II.9_line_77r_28"/>a []
+               de chavo detre any vene mesi al <lb n="29" xml:id="A.II.9_lb_77r_29"
+                  facs="#A.II.9_line_77r_29"/>
+               <term ref="#grantKaan">grando chan</term> daparte del chapitanio <pb n="77v"
+                  xml:id="A.II.9_fol_77v"/>
                <lb n="1" xml:id="A.II.9_lb_77v_01" facs="#A.II.9_line_77v_01"/>deloste adir chomo
                latera nonse po <lb n="2" xml:id="A.II.9_lb_77v_02" facs="#A.II.9_line_77v_02"/>deva
-               Afamar onde <term ref="#grantKaan">logrando chan</term> a <lb n="3" xml:id="A.II.9_lb_77v_03" facs="#A.II.9_line_77v_03"/>ve granda ira et aquele
+               Afamar onde <term ref="#grantKaan">logrando chan</term> a <lb n="3"
+                  xml:id="A.II.9_lb_77v_03" facs="#A.II.9_line_77v_03"/>ve granda ira [] et aquele
                parole setr <lb n="4" xml:id="A.II.9_lb_77v_04" facs="#A.II.9_line_77v_04"/>ovo
-               misier <persName ref="#nicolau">nicholo</persName> emisier <persName ref="#mafeu">mafio</persName> e <lb n="5" xml:id="A.II.9_lb_77v_05" facs="#A.II.9_line_77v_05"/>io <persName ref="#marcoPolo">marcho</persName> esidissi mi al<term ref="#grantKaan">grando chan</term>
+               misier <persName ref="#nicolau">nicholo</persName> emisier <persName ref="#mafeu"
+                  >mafio</persName> e <lb n="5" xml:id="A.II.9_lb_77v_05" facs="#A.II.9_line_77v_05"
+               />io <persName ref="#marcoPolo">marcho</persName> esidissi mi al<term
+                  ref="#grantKaan">grando chan</term>
                <lb n="6" xml:id="A.II.9_lb_77v_06" facs="#A.II.9_line_77v_06"/>che nuy faremo far
-                  <term ref="#mangan">mangany</term> ch <lb n="7" xml:id="A.II.9_lb_77v_07" facs="#A.II.9_line_77v_07"/>e trarave sigrande piere chel chovi <lb n="8" xml:id="A.II.9_lb_77v_08" facs="#A.II.9_line_77v_08"/>gnerave cheli serendeseno
+                  <term ref="#mangan">mangany</term> ch <lb n="7" xml:id="A.II.9_lb_77v_07"
+                  facs="#A.II.9_line_77v_07"/>e trarave sigrande piere chel chovi <lb n="8"
+                  xml:id="A.II.9_lb_77v_08" facs="#A.II.9_line_77v_08"/>gnerave cheli serendeseno []
                efeno far <lb n="9" xml:id="A.II.9_lb_77v_09" facs="#A.II.9_line_77v_09"/>adoy
-               maistry delegname cherano de <lb n="10" xml:id="A.II.9_lb_77v_10" facs="#A.II.9_line_77v_10"/>soa fameia et erano x<g ref="#pmacr"/>iany tre ma <lb n="11" xml:id="A.II.9_lb_77v_11" facs="#A.II.9_line_77v_11"/>
-               <term ref="#mangan">ngany</term> sigrandy che caschaduno tra <lb n="12" xml:id="A.II.9_lb_77v_12" facs="#A.II.9_line_77v_12"/>ceva piere de .iij.c livre Elo <term ref="#grantKaan">grando ch</term>
+               maistry delegname cherano de <lb n="10" xml:id="A.II.9_lb_77v_10"
+                  facs="#A.II.9_line_77v_10"/>soa fameia et erano x<g ref="#pmacr"/>iany tre ma <lb
+                  n="11" xml:id="A.II.9_lb_77v_11" facs="#A.II.9_line_77v_11"/>
+               <term ref="#mangan">ngany</term> sigrandy che caschaduno tra <lb n="12"
+                  xml:id="A.II.9_lb_77v_12" facs="#A.II.9_line_77v_12"/>ceva piere de .iij.c livre
+               Elo <term ref="#grantKaan">grando ch</term>
                <lb n="13" xml:id="A.II.9_lb_77v_13" facs="#A.II.9_line_77v_13"/>an life portare
-               aloste quando litra <lb n="14" xml:id="A.II.9_lb_77v_14" facs="#A.II.9_line_77v_14"/>buchi aveno trato inlacitade lepiere <lb n="15" xml:id="A.II.9_lb_77v_15" facs="#A.II.9_line_77v_15"/>chaceno suso una chasa efeno sigr <lb n="16" xml:id="A.II.9_lb_77v_16" facs="#A.II.9_line_77v_16"/>ando remore Esi grando dano
-               aque <lb n="17" xml:id="A.II.9_lb_77v_17" facs="#A.II.9_line_77v_17"/>la chasa cheli
-               tartary cherano inlo <lb n="18" xml:id="A.II.9_lb_77v_18" facs="#A.II.9_line_77v_18"/>ste senefeno granda meraveia ela <lb n="19" xml:id="A.II.9_lb_77v_19" facs="#A.II.9_line_77v_19"/>cente delacitade chenon aveva mai <lb n="20" xml:id="A.II.9_lb_77v_20" facs="#A.II.9_line_77v_20"/>vecuta simiente chosa Ave
-               sigran <lb n="21" xml:id="A.II.9_lb_77v_21" facs="#A.II.9_line_77v_21"/>do smarimento
-               che inchontenente <lb n="22" xml:id="A.II.9_lb_77v_22" facs="#A.II.9_line_77v_22"/>serendeno alo <term ref="#grantKaan">grande chan</term> temando <lb n="23" xml:id="A.II.9_lb_77v_23" facs="#A.II.9_line_77v_23"/>de eser morty tuty dequesta
-               mera <lb n="24" xml:id="A.II.9_lb_77v_24" facs="#A.II.9_line_77v_24"/>veia </p>
+               aloste [] quando litra <lb n="14" xml:id="A.II.9_lb_77v_14"
+                  facs="#A.II.9_line_77v_14"/>buchi aveno trato inlacitade lepiere <lb n="15"
+                  xml:id="A.II.9_lb_77v_15" facs="#A.II.9_line_77v_15"/>chaceno suso una chasa efeno
+               sigr <lb n="16" xml:id="A.II.9_lb_77v_16" facs="#A.II.9_line_77v_16"/>ando remore Esi
+               grando dano aque <lb n="17" xml:id="A.II.9_lb_77v_17" facs="#A.II.9_line_77v_17"/>la
+               chasa cheli tartary cherano inlo <lb n="18" xml:id="A.II.9_lb_77v_18"
+                  facs="#A.II.9_line_77v_18"/>ste senefeno granda meraveia [] ela <lb n="19"
+                  xml:id="A.II.9_lb_77v_19" facs="#A.II.9_line_77v_19"/>cente delacitade chenon
+               aveva mai <lb n="20" xml:id="A.II.9_lb_77v_20" facs="#A.II.9_line_77v_20"/>vecuta
+               simiente chosa Ave sigran <lb n="21" xml:id="A.II.9_lb_77v_21"
+                  facs="#A.II.9_line_77v_21"/>do smarimento che inchontenente <lb n="22"
+                  xml:id="A.II.9_lb_77v_22" facs="#A.II.9_line_77v_22"/>serendeno alo <term
+                  ref="#grantKaan">grande chan</term> temando <lb n="23" xml:id="A.II.9_lb_77v_23"
+                  facs="#A.II.9_line_77v_23"/>de eser morty tuty dequesta mera <lb n="24"
+                  xml:id="A.II.9_lb_77v_24" facs="#A.II.9_line_77v_24"/>veia </p>
          </div>
          <div type="chapter" n="103" xml:id="VA113_VAvi.103">
-            <p>
+            <p>‹103› (VA CXIII – F CXLVI)
                <lb n="25" xml:id="A.II.9_lb_77v_25" facs="#A.II.9_line_77v_25"/>
                <hi rend="init3.1">Q</hi>Uando lomo separte dalacita <placeName ref="#saianfu">desa <lb n="26" xml:id="A.II.9_lb_77v_26" facs="#A.II.9_line_77v_26"/>ngafu</placeName> elva
                per <term ref="#yseloc">sirocho</term> .xlv. <term ref="#mil">m <lb n="27" xml:id="A.II.9_lb_77v_27" facs="#A.II.9_line_77v_27"/>eia</term> eltruova una
@@ -11879,7 +11944,7 @@ n=""               <pb n="38r" xml:id="A.II.9_fol_38r"/>
                pluy forte cheno sarave <lb n="2" xml:id="A.II.9_lb_78v_02" facs="#A.II.9_line_78v_02"/>sartia de chanevo per tirare </p>
          </div>
          <div type="chapter" n="104" xml:id="VA114_VAvi.104">
-            <p>
+            <p>‹104› (VA CXIV – F CXLVII)
                <lb n="3" xml:id="A.II.9_lb_78v_03" facs="#A.II.9_line_78v_03"/>
                <hi rend="init3.1">C</hi>
                <placeName ref="#caigiu2">Anchuy</placeName> sie una picola citade sovra
@@ -11903,7 +11968,7 @@ n=""               <pb n="38r" xml:id="A.II.9_fol_38r"/>
             </p>
          </div>
          <div type="chapter" n="105" xml:id="VA115_VAvi.105">
-            <p>
+            <p>‹105› (VA CXV, 1-2 – F CXLVIII) 
                <lb n="26" xml:id="A.II.9_lb_78v_26" facs="#A.II.9_line_78v_26"/>
                <hi rend="init3.1">C</hi>
                <placeName ref="#cinghianfu">Ingianfu</placeName> sie una citade de
@@ -11915,7 +11980,7 @@ n=""               <pb n="38r" xml:id="A.II.9_fol_38r"/>
                citade perlo <term ref="#grantKaan">grando <lb n="2" xml:id="A.II.9_lb_79r_02" facs="#A.II.9_line_79r_02"/>chan</term> ano dominy .Mcclxxviij. </p>
          </div>
          <div type="chapter" n="106" xml:id="VA115_VAvi.106">
-            <p>
+            <p>‹106› (VA CXV, 3-9 – F CXLIX)
                <lb n="3" xml:id="A.II.9_lb_79r_03" facs="#A.II.9_line_79r_03"/>
                <hi rend="init3.1">Q</hi>Uando lomo separte dala citade de <lb n="4" xml:id="A.II.9_lb_79r_04" facs="#A.II.9_line_79r_04"/>
                <placeName ref="#cinghianfu">cingianfu</placeName>
@@ -11938,7 +12003,7 @@ n=""               <pb n="38r" xml:id="A.II.9_fol_38r"/>
             </p>
          </div>
          <div type="chapter" n="107" xml:id="VA116_VAvi.107">
-            <p>
+            <p>‹107› (VA CXVI – F CLX)
                <lb n="27" xml:id="A.II.9_lb_79r_27" facs="#A.II.9_line_79r_27"/>
                <hi rend="init3.1">C</hi>
                <placeName ref="#suctiur">Inguy</placeName> sie una nobelisima citade <lb n="28" xml:id="A.II.9_lb_79r_28" facs="#A.II.9_line_79r_28"/>laquale volce ben
@@ -11967,7 +12032,7 @@ n=""               <pb n="38r" xml:id="A.II.9_fol_38r"/>
                nome locelo et questo perla gra <lb n="23" xml:id="A.II.9_lb_79v_23" facs="#A.II.9_line_79v_23"/>nda nobelitade de quela citade </p>
          </div>
          <div type="chapter" n="108" xml:id="VA117_VAvi.108">
-            <p>
+            <p>‹108› (VA CXVII – F CLI)
                <lb n="24" xml:id="A.II.9_lb_79v_24" facs="#A.II.9_line_79v_24"/>QUando lomo separte
                   <placeName ref="#suctiur">desenguy</placeName> elva b<g ref="#emacr"/>
                <lb n="25" xml:id="A.II.9_lb_79v_25" facs="#A.II.9_line_79v_25"/>.v <term ref="#journee">cornade</term> trovando plus<g ref="#otilde"/> citade molte <lb n="26" xml:id="A.II.9_lb_79v_26" facs="#A.II.9_line_79v_26"/>bone Et de granda
@@ -12139,7 +12204,7 @@ n=""               <pb n="38r" xml:id="A.II.9_fol_38r"/>
                desmesurata </p>
          </div>
          <div type="chapter" n="109" xml:id="VA118_VAvi.109">
-            <p>
+            <p>‹109› (VA CXVIII – F CLIII)
                <lb n="21" xml:id="A.II.9_lb_83r_21" facs="#A.II.9_line_83r_21"/>
                <hi rend="init3.1">Q</hi>Uando lomo separte de<placeName ref="#quinsai">quin</placeName>
                <lb n="22" xml:id="A.II.9_lb_83r_22" facs="#A.II.9_line_83r_22"/>say elva una <term ref="#journee">cornata</term> verso <term ref="#yseloc">siro <lb n="23" xml:id="A.II.9_lb_83r_23" facs="#A.II.9_line_83r_23"/>cho</term> tuta fiada
@@ -12170,7 +12235,7 @@ n=""               <pb n="38r" xml:id="A.II.9_fol_38r"/>
             </p>
          </div>
          <div type="chapter" n="110" xml:id="VA119_VAvi.110">
-            <p>
+            <p>‹110› (VA CXIX – F CLIV-CLV)
                <lb n="22" xml:id="A.II.9_lb_83v_22" facs="#A.II.9_line_83v_22"/>
                <hi rend="init3.1">Q</hi>Uando lomo separte da <placeName ref="#cugiu">chogigno</placeName>
                <lb n="23" xml:id="A.II.9_lb_83v_23" facs="#A.II.9_line_83v_23"/>lo entra inloregname
@@ -12226,14 +12291,14 @@ n=""               <pb n="38r" xml:id="A.II.9_fol_38r"/>
                davivere </p>
          </div>
          <div type="chapter" n="111" xml:id="VA120_VAvi.111">
-            <p>
+            <p>‹111›  (VA CXX, 1 – F CLVI, 1-2)
                <lb n="27" xml:id="A.II.9_lb_84v_27" facs="#A.II.9_line_84v_27"/>
                <hi rend="init3.1">L</hi>Omo quando lepartido da fungu el <lb n="28" xml:id="A.II.9_lb_84v_28" facs="#A.II.9_line_84v_28"/>pasa lo flume Eva .v. <term ref="#journee">cornade</term> per si </p>
          </div>
          <!-- ##### FOLIO 85r ##### -->
          <pb n="85r" xml:id="A.II.9_fol_85r"/>
          <div type="chapter" n="112" xml:id="VA121_VAvi.112">
-            <p>
+            <p>(VA CXXI, 5-13 – F CLVII, 7-14) 
                <lb n="1" xml:id="A.II.9_lb_85r_01" facs="#A.II.9_line_85r_01"/>defero et eno
                chalchate dentro edefuora <lb n="2" xml:id="A.II.9_lb_85r_02" facs="#A.II.9_line_85r_02"/>et eno inpegolate de<term ref="#peces">pegola</term>
                non perche <lb n="3" xml:id="A.II.9_lb_85r_03" facs="#A.II.9_line_85r_03"/>eli non
@@ -12263,7 +12328,7 @@ n=""               <pb n="38r" xml:id="A.II.9_fol_38r"/>
             </p>
          </div>
          <div type="chapter" n="113" xml:id="VA122_VAvi.113">
-            <p>
+            <p>‹113› (VA CXXII – F CLVIII-CLX)
                <lb n="2" xml:id="A.II.9_lb_85v_02" facs="#A.II.9_line_85v_02"/>
                <hi rend="init3.1">C</hi>
                <placeName ref="#cipingu">Ibagu</placeName> sie una isolla verso <term ref="#levant">levante</term>
@@ -12390,7 +12455,7 @@ n=""               <pb n="38r" xml:id="A.II.9_fol_38r"/>
             </p>
          </div>
          <div type="chapter" n="114" xml:id="VA123_VAvi.114">
-            <p>
+            <p>‹114› (VA CXXIII – F CLXI)
                <lb n="18" xml:id="A.II.9_lb_88r_18" facs="#A.II.9_line_88r_18"/>
                <hi rend="init3.1">Q</hi>Uando lomo separte dalporto de ca <lb n="19" xml:id="A.II.9_lb_88r_19" facs="#A.II.9_line_88r_19"/>
                <placeName ref="#caiton">iton</placeName> el navega
@@ -12419,7 +12484,7 @@ n=""               <pb n="38r" xml:id="A.II.9_fol_38r"/>
                arme </p>
          </div>
          <div type="chapter" n="115" xml:id="VA124_VAvi.115">
-            <p>
+            <p>‹115› (VA CXXIV – F CLXII)
                <lb n="15" xml:id="A.II.9_lb_88v_15" facs="#A.II.9_line_88v_15"/>
                <hi rend="init3.1">L</hi>Omo quando el separte da <placeName ref="#ciamba">cianb</placeName>
                <lb n="16" xml:id="A.II.9_lb_88v_16" facs="#A.II.9_line_88v_16"/>an elnavega verso
@@ -12439,7 +12504,7 @@ n=""               <pb n="38r" xml:id="A.II.9_fol_38r"/>
             </p>
          </div>
          <div type="chapter" n="116" xml:id="VA125_VAvi.116">
-            <p>
+            <p>‹116› (VA CXXV – F CLXIII)
                <lb n="4" xml:id="A.II.9_lb_89r_04" facs="#A.II.9_line_89r_04"/>
                <hi rend="init3.1">Q</hi>Uando lomo separte de <placeName ref="#java">iana</placeName> ena <lb n="5" xml:id="A.II.9_lb_89r_05" facs="#A.II.9_line_89r_05"/>vega dentro <term ref="#midi">mecodij</term> e<term ref="#garbin">garbin</term>
                <lb n="6" xml:id="A.II.9_lb_89r_06" facs="#A.II.9_line_89r_06"/>.vij . <term ref="#mil">meia</term> eltrova doe isole che anom <lb n="7" xml:id="A.II.9_lb_89r_07" facs="#A.II.9_line_89r_07"/>e <placeName ref="#sondur">sandor</placeName> et <placeName ref="#condur">chondur</placeName> edalonci de
@@ -12458,7 +12523,7 @@ n=""               <pb n="38r" xml:id="A.II.9_fol_38r"/>
                perche loluogo sie mol <lb n="22" xml:id="A.II.9_lb_89r_22" facs="#A.II.9_line_89r_22"/>to stranio </p>
          </div>
          <div type="chapter" n="117" xml:id="VA126_VAvi.117">
-            <p>
+            <p>‹117› (VA CXXVI – F CLXIV)
                <lb n="23" xml:id="A.II.9_lb_89r_23" facs="#A.II.9_line_89r_23"/>
                <hi rend="init3.1">Q</hi>Uando lomo separte da<placeName ref="#locac">leochar</placeName> el <lb n="24" xml:id="A.II.9_lb_89r_24" facs="#A.II.9_line_89r_24"/>navega .v. <term ref="#mil">meia</term> per <term ref="#midi">meco dij</term>
                <lb n="25" xml:id="A.II.9_lb_89r_25" facs="#A.II.9_line_89r_25"/>el truova una isola
@@ -12475,7 +12540,7 @@ n=""               <pb n="38r" xml:id="A.II.9_fol_38r"/>
                alenguaco persi et <lb n="9" xml:id="A.II.9_lb_89v_09" facs="#A.II.9_line_89r_09"/>ege <term ref="#especeries">specie</term> in granda Abondancia </p>
          </div>
          <div type="chapter" n="118" xml:id="VA127_VAvi.118">
-            <p>
+            <p>‹118› (VA CXXVII – F CLXV, 1-5)
                <lb n="10" xml:id="A.II.9_lb_89v_10" facs="#A.II.9_line_89v_10"/>
                <hi rend="init3.1">S</hi>Elomo separte da <placeName ref="#pentain">pentain</placeName> enavega <lb n="11" xml:id="A.II.9_lb_89v_11" facs="#A.II.9_line_89v_11"/>per sirocho intorno
                de .C. meia eltru <lb n="12" xml:id="A.II.9_lb_89v_12" facs="#A.II.9_line_89v_12"/>ova lisola de <placeName ref="#piteteJava">iana menor</placeName> che volce plu <lb n="13" xml:id="A.II.9_lb_89v_13" facs="#A.II.9_line_89v_13"/>de .ij. milia meia
@@ -12495,7 +12560,7 @@ n=""               <pb n="38r" xml:id="A.II.9_fol_38r"/>
                questy </p>
          </div>
          <div type="chapter" n="119" xml:id="VA128_VAvi.119">
-            <p>
+            <p>‹119› (VA CXXVIII – F CLXV, 6-8)
                <lb n="28" xml:id="A.II.9_lb_89v_28" facs="#A.II.9_line_89v_28"/>
                <hi rend="init3.1">A</hi>Chason de marchadanty sarainy che <!-- ##### FOLIO 90r ##### -->
                <pb n="90r" xml:id="A.II.9_fol_90r"/>
@@ -12508,7 +12573,7 @@ n=""               <pb n="38r" xml:id="A.II.9_fol_38r"/>
                selievano silo adora <lb n="8" xml:id="A.II.9_lb_90r_08" facs="#A.II.9_line_90r_08"/>per suo dio eli mancano hogni charne <lb n="9" xml:id="A.II.9_lb_90r_09" facs="#A.II.9_line_90r_09"/>bona eria et ecian dio de charne umana </p>
          </div>
          <div type="chapter" n="120" xml:id="VA129_VAvi.120">
-            <p>
+            <p>‹120› (VA CXXIX – F CLXV, 9-17)
                <lb n="10" xml:id="A.II.9_lb_90r_10" facs="#A.II.9_line_90r_10"/>
                <hi rend="init3.1">Q</hi>Uando lomo separte delo regnam <lb n="11" xml:id="A.II.9_lb_90r_11" facs="#A.II.9_line_90r_11"/>e de<placeName ref="#ferlec">ferlech</placeName> elo
                entra inloregna <lb n="12" xml:id="A.II.9_lb_90r_12" facs="#A.II.9_line_90r_12"/>me
